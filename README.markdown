@@ -110,6 +110,7 @@ Este tipo de escalamiento es muy útil cuando los datos tienen distribuciones no
 ### Formulación:
 
 $$x'_i = \frac{x_i - x_{\text{min}}}{x_{\text{max}} - x_{\text{min}}}$$
+$$x'_i = \frac{(x_i - x_{min})}{(x_{max} - x_{min})}$$
 
 * Donde:
 
